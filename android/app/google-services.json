@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949570037297",
+    "project_id": "bzulodhran",
+    "storage_bucket": "bzulodhran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949570037297:android:75263478520b621b199710",
+        "android_client_info": {
+          "package_name": "com.example.bzu_lodhran_off"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949570037297-tb0afhgfcb3acjkprapcpfqb42r4li8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMHFTXj_E_4Fa227imrMqeYwiGNPHmZeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949570037297-tb0afhgfcb3acjkprapcpfqb42r4li8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
